@@ -31,3 +31,4 @@ github:
 
 prose:
   rooturl: '_posts'
+  siteurl: 'http://www.tinymightyblog.com'
