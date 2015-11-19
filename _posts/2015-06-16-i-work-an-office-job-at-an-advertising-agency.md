@@ -5,8 +5,6 @@ published: true
 tags: null
 ---
 
-
-
 I think most people know what they want to be when they grow up. Or they at least have SOME kind of passion for something in particular. Like, they might be working at a coffee shop or cutting hair, but if you asked them right now what their dream job was, they could tell you.
 
 I've never been one of those people.![]({{site.baseurl}}/)
