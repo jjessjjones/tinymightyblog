@@ -41,3 +41,9 @@ prose:
         field:
           element: "text"
           label: "title"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          alterable: "true"
+          label: "tags"
+          placeholder: "add tags"
