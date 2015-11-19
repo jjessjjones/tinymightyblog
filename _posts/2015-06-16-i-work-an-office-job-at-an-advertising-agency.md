@@ -7,7 +7,7 @@ tags: null
 
 I think most people know what they want to be when they grow up. Or they at least have SOME kind of passion for something in particular. Like, they might be working at a coffee shop or cutting hair, but if you asked them right now what their dream job was, they could tell you.
 
-I've never been one of those people.![]({{site.baseurl}}/)
+I've never been one of those people.
 
 My dream job was constantly changing and evolving and losing the title "dream job" bc I always loved everything. My parents didn't help bc they were the parents that said "you can be whatever you want when you grow up, just as long as your happy"... great direction, guys (ps I love my parents).
 
