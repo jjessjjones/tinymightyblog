@@ -13,9 +13,6 @@ I've never been one of those people.![]({{site.baseurl}}/)
 
 My dream job was constantly changing and evolving and losing the title "dream job" bc I always loved everything. My parents didn't help bc they were the parents that said "you can be whatever you want when you grow up, just as long as your happy"... great direction, guys (ps I love my parents).!
 
-[dough-rolled.jpg]({{site.baseurl}}/assets/images/posts/dough-rolled.jpg)
-
-
 People ask me all the time what my dream job is and I'm pretty sure all I wanted to be when I was little was [Kate Hudson (or any other city heroine) in the beginning of all her movies](http://www.hotflick.net/flicks/2003_How_to_Lose_a_Guy_in_10_Days/003HTL_Kate_Hudson_149.jpg). (Stay with me here-) I wanted to live in a big city with a cool apartment and bop into coffee shops and bars and know everyone and have great style and work at SOME kind of agency.
 
 Life is a lot harder than a Kate Hudson movie (though, now thinking back to [Raising Helen](http://www.imdb.com/title/tt0350028/), that was pretty tough, Kate. Congrats for really holding it together...). But I look around these days, and after realizing that's what I always wanted, I realized that I kinda have it?  It's definitely not as carefree as I imagined it would be, hence the reason it took me a bit to realize that I have it, but I think I'm set.
