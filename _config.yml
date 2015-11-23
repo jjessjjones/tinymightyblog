@@ -41,6 +41,24 @@ prose:
         field:
           element: "text"
           label: "title"
+      - name: "categories"
+        field: 
+          element: "select"
+          label: "Category"
+          help: "select a category from the list."
+          options: 
+            - name: "Style"
+              value: "style"
+            - name: "DIY"
+              value: "diy"
+            - name: "Travel"
+              value: "travel"
+            - name: "Baking"
+              value: "baking"
+            - name: "Atlanta"
+              value: "atlanta"
+            - name: "Music"
+              value: "music"
       - name: "tags"
         field:
           element: "multiselect"
