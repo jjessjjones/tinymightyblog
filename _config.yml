@@ -46,6 +46,7 @@ prose:
           element: "select"
           label: "Category"
           help: "select a category from the list."
+          placeholder: "---"
           options: 
             - name: "Style"
               value: "style"
